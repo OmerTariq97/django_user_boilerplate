@@ -1,8 +1,8 @@
 DJANGO_APPLICATIONS = [
     'django.contrib.auth',
-    "admin_interface",
-    'storages',
-    'colorfield',
+    # "admin_interface",
+    # 'storages',
+    # 'colorfield',
     'django.contrib.admin',
     'django.contrib.sessions',
     "daphne",
@@ -20,6 +20,6 @@ CUSTOM_APPLICATIONS = [
 THIRD_PARTY_APPLICATIONS = [
 
     'drf_yasg',
-    'corsheaders',
+    # 'corsheaders',
     'rest_framework',
 ]
